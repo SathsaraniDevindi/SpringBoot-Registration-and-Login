@@ -1,3 +1,3 @@
 # SpringBoot-Registration-and-Login
 
-Spring Boot Registration and Login with MySQL Database
+User Registration, Login with SpringBoot and MySQL Database
